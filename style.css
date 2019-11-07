@@ -1,0 +1,22 @@
+#heading{
+    color: #ee4b08;
+    text-decoration: underline;
+    text-decoration-style: double;
+}
+
+.enter{
+    transition: all 0.1s;
+}
+
+.enter:hover{
+    background-color: #60abf8;
+    transform: scale(1.1);
+}
+
+.done{
+    text-decoration: line-through;
+}
+
+.displayNone{
+    display: none;
+}
